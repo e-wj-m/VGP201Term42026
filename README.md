@@ -1,2 +1,4 @@
 # VGP201Term42026
-Godly Game Design by Moi
+
+This Repo is for Term 4 2026 - VGP201 
+
